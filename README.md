@@ -7,3 +7,5 @@ Develop branch:- If your project has multiple developers or you want to isolate 
 Feature branches:- Create a new branch for every new feature or bugfix. This keeps your work isolated until it's ready to be merged.
 
 ![image](https://github.com/user-attachments/assets/b96ed266-1b23-4ec2-a8b1-a4a0efbde942)
+
+

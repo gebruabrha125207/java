@@ -1,4 +1,4 @@
-# java
+# java microservice
 
 Branching Strategy
 A good branching strategy will help you manage the development process:-
